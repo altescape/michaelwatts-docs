@@ -1,9 +1,9 @@
 Michael Watts CV and work examples
 ==================================
 
-## [Contact me] (https://github.com/altescape/michaelwatts-docs/blob/master/links.md)
-
-## Work examples
+### [Contact me] (https://github.com/altescape/michaelwatts-docs/blob/master/links.md)
+---
+### Work examples
 
 1. [Saudi Fashion Magazine - PHP, Frontend] (https://github.com/altescape/michaelwatts-docs/blob/master/Saudi%20Fashion%20Magazine.md)
 2. [POS Store Incentive Application - PHP] (https://github.com/altescape/michaelwatts-docs/blob/master/POS%20Store%20Incentive%20Application.md)
