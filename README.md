@@ -3,8 +3,6 @@ Michael Watts CV and work examples
 
 ## [Contact me] (https://github.com/altescape/michaelwatts-docs/blob/master/links.md)
 
----
-
 ## Work examples
 
 1. [Saudi Fashion Magazine - PHP, Frontend] (https://github.com/altescape/michaelwatts-docs/blob/master/Saudi%20Fashion%20Magazine.md)
