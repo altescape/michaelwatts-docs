@@ -2,7 +2,7 @@
 
 [sits on private Github repository, need to make clone public and remove any DB refs.]
 
-### Languages:
+### Languages/Principles:
 - PHP OOP
 - Dependancy Injection
 - Inheritance
