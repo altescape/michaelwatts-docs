@@ -20,8 +20,8 @@ People would enter their details, leave a message about why they 'were fashion' 
 ### Breakdown of work:
 - Written in PHP using Laravel 4 plus XHR.
 - Implemented the following:
-	- Upload image functionality where user could upload from desktop or directly from phone or tablet. 
-	- Administration and reporting backend.
-	- Approval and publish process
-	- Voting mechanic
-	- Share functionality
+	- User uploads from desktop or directly from phone or tablet.
+	- An administration area where admins could view, approve and delete entries.
+	- Data could be exported from database as CSV or accessed with restful API as JSON.
+	- Voting mechanic where users could vote/like the best images
+	- Share functionality where users could share via Facebook API or Twitter
