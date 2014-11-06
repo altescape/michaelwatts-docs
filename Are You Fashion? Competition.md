@@ -1,6 +1,6 @@
 ## Are You Fashion? Photo and Caption Competition
 
-[Expired Competition - site still online (can also see backend at /report)](http://are-you-fashion.com (login with mike@smswmedia.com)
+[Link to staging version] (http://are-you-fashion.com (login with mike@smswmedia.com)
 
 Languages:
 - PHP
