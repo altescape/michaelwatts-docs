@@ -1,6 +1,6 @@
 ## POS Store Incentive application
 
-[sits on private Github repository, need to make clone public and remove any DB refs.]
+[Link to public repository] (https://github.com/altescape/PosStoreIncentives)
 
 ### Languages/Principles:
 - PHP OOP
