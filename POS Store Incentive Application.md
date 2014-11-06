@@ -3,7 +3,10 @@
 [sits on private Github repository, need to make clone public and remove any DB refs.]
 
 ### Languages:
-- PHP
+- PHP OOP
+- Dependancy Injection
+- Inheritance
+- Using SOLID principles
 
 ### Summary:
 - A POS sign-up process to increase membership to Saudi Fashion Magazine. Cashier staff were incentivised to 'sign-up' customers at the till. They are then signed up to Saudi Fashion Magazine as members and contacted via email.  Data is processed using Oracle and sent to our server where its validated and processed for use.
