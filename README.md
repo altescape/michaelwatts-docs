@@ -1,29 +1,30 @@
 michaelwatts.me-website
 =======================
 
-Include: links.md
+[Contact links] (https://github.com/altescape/michaelwatts-docs/blob/master/links.md)
 
 ---
 
-Include: Saudi Fashion Magazine.md
+[Saudi Fashion Magazine - PHP, Frontend] (https://github.com/altescape/michaelwatts-docs/blob/master/Saudi%20Fashion%20Magazine.md)
 
 ---
 
-Include: POS Store Incentive Application.md
+[POS Store Incentive Application - PHP] (https://github.com/altescape/michaelwatts-docs/blob/master/POS%20Store%20Incentive%20Application.md)
 
 ---
 
-Include: Are You Fashion? Competition.md
+[Are You Fashion? Competition site - Laravel 4] (https://github.com/altescape/michaelwatts-docs/blob/master/Are%20You%20Fashion%3F%20Competition.md)
 
 ---
 
-Include: Gap Facebook Applications.m
+[Gap Facebook Applications - Laravel 4, PHP, JavaScript] (https://github.com/altescape/michaelwatts-docs/blob/master/Gap%20Facebook%20Applications.md)
 
 ---
 
-Include: Picture Matching Facebook Game.md
+[Picture Matching Facebook Game - Laravel 4, PHP, JavaScript] (https://github.com/altescape/michaelwatts-docs/blob/master/Picture%20Matching%20Facebook%20Game.md)
 
 ---
+
 ## SITA Horizon Value Calculator
 
 Languages:
