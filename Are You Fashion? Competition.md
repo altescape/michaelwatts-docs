@@ -1,6 +1,6 @@
 ## Are You Fashion? Photo and Caption Competition
 
-[Link to staging version] (http://are-you-fashion.com (login with mike@smswmedia.com)
+[Link to staging version (login with mike@smswmedia.com)] (http://are-you-fashion.com)
 
 Languages:
 - PHP
